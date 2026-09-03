@@ -5,6 +5,8 @@ Descripcion: [Actividad 1]
 ====================================================================
 */
 
+// Leer dos números e imprimir su suma.
+
 #include <stdio.h>
 
 int sumar(int a, int b);
